@@ -17,7 +17,7 @@ A 3D Player Controller built in Unity that allows smooth WASD movement, gravity 
 ✅ Idle and Run animations for character movement.  
 ✅ Countdown timer to complete the level before time expires.  
 ✅ Win and Game Over conditions based on finishing time or reaching the target.  
-✅ Smooth camera with collision prevention to avoid clipping through walls.
+
 
 ---
 
