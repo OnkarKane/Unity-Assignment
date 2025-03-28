@@ -8,6 +8,9 @@ A 3D Player Controller built in Unity that allows smooth WASD movement, gravity 
 
 ---
 
+## Goal
+Locate and Find the Red Wall and cross it before timer expires, Try to touch(collect) all of the glowing cubes
+
 ## 📌 **Features**
 ✅ Smooth WASD movement relative to the player’s direction.  
 ✅ Gravity changes using `Ctrl + Mouse Drag` with smooth character rotation.  
